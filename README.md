@@ -1,7 +1,7 @@
 # Tipi
 
 #NOTION
-<a href:'https://www.notion.so/256cf62026624e64b2b42dfeecd8d05c'>
+https://www.notion.so/256cf62026624e64b2b42dfeecd8d05c
 
 #SRS
 https://docs.google.com/document/d/1yFYJbJlvABpq4KiX9Qtx5T3kvcewGPmr/edit
